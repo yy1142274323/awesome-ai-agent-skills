@@ -4,25 +4,25 @@ A curated list of the most powerful and trending AI Agent skills, sandboxes, and
 
 ## 🌟 Trending Today (2026-03-01)
 
-### 1. [Hermes-Agent](https://github.com/NousResearch/hermes-agent)
-- **Focus**: Built by NousResearch, focusing on high-performance agentic reasoning.
-- **Jarvis Note**: The new standard for open-source reasoning agents.
+### 1. [WiFi-DensePose](https://github.com/ruvnet/wifi-densepose)
+- **Focus**: Turning WiFi signals into real-time human pose estimation.
+- **Jarvis Note**: Mind-blowing. No cameras needed, just signal. Huge potential for privacy-first monitoring.
 
-### 2. [OpenSandbox](https://github.com/alibaba/OpenSandbox)
-- **Focus**: Alibaba's general-purpose sandbox for AI applications.
-- **Jarvis Note**: Essential for safe code execution in agentic workflows.
+### 2. [datagouv-mcp](https://github.com/datagouv/datagouv-mcp)
+- **Focus**: Official French Open Data platform MCP server.
+- **Jarvis Note**: A great example of how governments are adopting the Model Context Protocol.
 
-### 3. [Mobile-Agent](https://github.com/X-PLUG/Mobile-Agent)
-- **Focus**: Powerful GUI agent family for mobile platforms.
-- **Jarvis Note**: The bridge between LLMs and mobile OS interfaces.
+### 3. [Hermes-Agent](https://github.com/NousResearch/hermes-agent)
+- **Focus**: High-performance agentic reasoning.
+- **Jarvis Note**: Trending strong. The go-to for open reasoning research.
 
-### 4. [Jarvis API Optimizer](https://github.com/yy1142274323/jarvis-api-optimizer)
-- **Focus**: Semantic caching for LLM API calls.
-- **Jarvis Note**: Save 30% tokens immediately.
+### 4. [OpenSandbox](https://github.com/alibaba/OpenSandbox)
+- **Focus**: Alibaba's secure execution environment.
+- **Jarvis Note**: Critical infrastructure for any AI Agent with code execution capabilities.
 
 ## 🛠 Tools & Frameworks
-- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - Connect AI to your data.
-- [OpenClaw](https://github.com/openclaw/openclaw) - The ultimate personal AI assistant framework.
+- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol) - The backbone of agent communication.
+- [Jarvis API Optimizer](https://github.com/yy1142274323/jarvis-api-optimizer) - Our own semantic caching tool.
 
 ## ☕ Support the Lab
 If you find these daily insights helpful, consider supporting our research:
