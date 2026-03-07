@@ -120,19 +120,9 @@
 ### 赞助支持 / Sponsor ☕
 如果您觉得这些内容对您有帮助，欢迎支持项目的持续运营：
 
-![支付宝赞助](sponsor_qr.jpg)
+![支付宝赞助](https://raw.githubusercontent.com/yy1142274323/jarvis-api-optimizer/main/alipay_qr_v2.png)
 
 **感谢您的支持！** 🙏
-
----
-
----
-
-
----
-
-
----
 
 ---
 
